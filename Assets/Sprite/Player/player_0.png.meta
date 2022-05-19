@@ -448,7 +448,7 @@ TextureImporter:
         width: 31
         height: 24
       alignment: 9
-      pivot: {x: 0.48387095, y: 0}
+      pivot: {x: 0.3548387, y: -0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1930,6 +1930,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: player_0_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 309
+        width: 27
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03168523b2f44149b3cfbf5deb0676b
+      internalID: -1238511904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -1941,7 +1962,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      player_0_80: 651887221
+      player_0_72: 307078344
       player_0_3: -1238511904
       player_0_29: -1903196475
       player_0_47: -1056004994
@@ -2022,13 +2043,13 @@ TextureImporter:
       player_0_71: -540506142
       player_0_34: 1267978288
       player_0_78: 1997949923
-      player_0_8: 262043357
-      player_0_68: -512077822
-      player_0_42: -231137539
       player_0_19: -1760038120
+      player_0_42: -231137539
+      player_0_68: -512077822
+      player_0_8: 262043357
       player_0_61: 114576143
       player_0_23: -1246452172
-      player_0_72: 307078344
+      player_0_80: 651887221
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
